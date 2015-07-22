@@ -1,0 +1,25 @@
+body {
+	background-image: url("http://edigernation.tripod.com/webonmediacontents/placeholder.png");
+	background-size: cover;
+	
+
+	
+}
+
+
+h4,h1, table { 
+	text-align: center;
+	font-family: Tahoma, sans-serif;
+	color: #f0f8ff; 
+	border: 3px solid #8AC007; 
+	
+}
+
+.width { 
+ width: 100%; 
+}
+
+a{
+text-decoration: none;
+color: #f0f8ff; 
+}

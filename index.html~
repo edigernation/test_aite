@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css">
+		<title>edigernation</title>
+		
+	</head>
+	<body>
+	<p>
+	          
+	</p>
+	<h1>TJ Ediger</h1>
+	<h4> hfx, ns, ca</h4>
+	<table class="width">
+		<tr>
+			<th><a href="index.html">Home</a></th>
+			<th><a href="work.html">Work</a></th>
+			<th><a href="shows.html">Shows</a></th>
+			<th><a href="contact.html">Contact</a></th>
+		</tr>
+	</table>
+	
+	</body>
+</html>
